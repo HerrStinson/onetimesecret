@@ -226,7 +226,7 @@ div.private{font-size: 18px; line-height: 18px; margin-top: 20px;}
 #primaryTabs {
   background: transparent;
   border: none;
-  font-family: georgia;
+  /* font-family: georgia; */
 }
 #primaryTabs .ui-widget-header {
   background: transparent;
